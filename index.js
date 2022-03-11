@@ -16,16 +16,16 @@
 // let c = parseInt(prompt("nhập vào số c"))
 // let P = a + b + c
 // console.log(`chu vi của tam giác là : ${P}`)
-let w = parseInt(prompt("nhập vào số cân nặng"))
-let h = parseFloat(prompt("nhập vào số chiều cao(m)"))
-let BMI = w /(h**2)
-console.log( `chỉ sồ BMI của bạn là ${BMI}`);
-// 4. câu điều kiện
-if (BMI < 18) {
-    console.log('bạn hơi gầy');
-}else if ( BMI >=18 && BMI < 25){
-    console.log("bạn cân đối");
-}
-else{
-    console.log(" bạn béo");
-}
+// let w = parseInt(prompt("nhập vào số cân nặng"))
+// let h = parseFloat(prompt("nhập vào số chiều cao(m)"))
+// let BMI = w /(h**2)
+// console.log( `chỉ sồ BMI của bạn là ${BMI}`);
+// // 4. câu điều kiện
+// if (BMI < 18) {
+//     console.log('bạn hơi gầy');
+// }else if ( BMI >=18 && BMI < 25){
+//     console.log("bạn cân đối");
+// }
+// else{
+//     console.log(" bạn béo");
+// }
